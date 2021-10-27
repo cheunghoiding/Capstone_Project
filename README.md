@@ -36,5 +36,16 @@ AI in Credit Card Fraud Detection System.
 
 ![demo3](https://user-images.githubusercontent.com/84705479/138996977-16050888-7274-476f-a6c8-830b630768db.png)
 
+<img width="1157" alt="Screenshot 2021-10-27 at 11 51 53 AM" src="https://user-images.githubusercontent.com/84705479/138997282-72351574-b4d7-458c-a01e-2ce4664e8931.png">
+
+<img width="1158" alt="Screenshot 2021-10-27 at 11 53 01 AM" src="https://user-images.githubusercontent.com/84705479/138997304-6b136773-6a12-4ba9-bfbc-08a1f0524ac5.png">
+
+<img width="1155" alt="Screenshot 2021-10-27 at 11 52 04 AM" src="https://user-images.githubusercontent.com/84705479/138997309-789d4662-43ba-46dd-a2ac-745ebb25a76b.png">
+
+<img width="1160" alt="Screenshot 2021-10-27 at 11 52 19 AM" src="https://user-images.githubusercontent.com/84705479/138997312-f208c601-db5f-4ef5-9dca-c80969b956be.png">
+
+<img width="1161" alt="Screenshot 2021-10-27 at 11 52 38 AM" src="https://user-images.githubusercontent.com/84705479/138997314-36f9896b-8c0b-4870-b50d-9fa48b6547bc.png">
+
+<img width="1160" alt="Screenshot 2021-10-27 at 11 52 51 AM" src="https://user-images.githubusercontent.com/84705479/138997318-3686e1f5-be56-4418-bba9-7701cb84741d.png">
 
 
